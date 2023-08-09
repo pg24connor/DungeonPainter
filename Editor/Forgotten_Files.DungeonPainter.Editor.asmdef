@@ -1,0 +1,18 @@
+{
+    "name": "Forgotten_Files.DungeonPainter.Editor",
+    "rootNamespace": "Forgotten_Files.DungeonPainter.Editor",
+    "references": [
+        "GUID:601cc99cff083cc48aa4a2d6c634c4e2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
